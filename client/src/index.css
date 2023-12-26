@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper {
+  margin: 7vh;
+  max-width: 65vh;
+  padding: 3vh;
+}
+
+.blue{
+  color: blue;
+}
